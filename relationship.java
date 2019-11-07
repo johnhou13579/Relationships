@@ -68,9 +68,7 @@ public class relationship {
             String[] line = scanner.nextLine().split(" ");
             String rootId = line[0];
             String dependId = line[1];
-            if(!hm.containsKey(rootId)){
-                if()
-            }
+
         }
         scanner.close();
     }
